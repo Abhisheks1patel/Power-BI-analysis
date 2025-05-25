@@ -1,1 +1,23 @@
+📊 Sales and Product Analysis Dashboard – Power BI
+This Power BI dashboard was developed to provide comprehensive insights into sales performance and product-level analytics.
+The objective was to enable data-driven decision-making by visualizing key metrics and trends related to sales, revenue, and product performance
+across multiple dimensions such as time, geography, and customer segments.
 
+🔍 Key Features
+📈 Sales Overview Dashboard
+✅ Total Sales, Revenue, and Profit KPIs
+📊 Year-over-Year and Month-over-Month Trends
+🌍 Sales Breakdown by Region, Country, and Sales Representatives
+📦 Product Performance Analysis
+🥇 Top-Selling and Low-Performing Products
+📐 Sales Contribution by Product Categories
+📉 Product Lifecycle and Trend Patterns
+👥 Customer Insights
+🧩 Sales by Customer Segments
+🔁 Customer Retention and Acquisition Metrics
+💵 Average Order Value and Purchase Frequency
+
+🛠 Tools & Technologies
+Power BI Desktop
+Excel / SQL / SharePoint / OneDrive as data sources
+![Sales Dashboard Screenshot](Sales analysis.png)
