@@ -1,1 +1,117 @@
-
+[
+  {
+    "id": 1,
+    "name": "Note Making Web App",
+    "technologies": "React Js, HTML, CSS, Bootstrap",
+    "images": [
+      "https://raw.githubusercontent.com/YOUR_USERNAME/portfolio-data/main/images/note1.png"
+    ],
+    "github": "https://github.com/Abhisheks1patel/Managing_notes.git",
+    "skillsUsed": ["React", "Hooks", "Bootstrap", "CSS"],
+    "description": [
+      "Built a responsive note-taking application using React JS.",
+      "Users can create, edit, delete, and organize notes efficiently.",
+      "Added search and pin functionality for better productivity.",
+      "Used React Hooks for smooth state management."
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Expense Tracker",
+    "technologies": "React Js, Bootstrap, CSS",
+    "images": [
+      "https://raw.githubusercontent.com/YOUR_USERNAME/portfolio-data/main/images/expense.png"
+    ],
+    "github": "https://github.com/Abhisheks1patel/expense-tracker",
+    "skillsUsed": [
+      "React",
+      "State Management",
+      "Bootstrap",
+      "CSS",
+      "React-Hooks",
+      "Responsive Design"
+    ],
+    "description": [
+      "Tracks income and expenses in real time.",
+      "Provides summary dashboard of spending patterns.",
+      "Clean and user-friendly UI for financial tracking."
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Supply Chain Delivery Performance Dashboard",
+    "technologies": "Python, Power BI, Excel, Machine Learning",
+    "images": [
+      "https://raw.githubusercontent.com/YOUR_USERNAME/portfolio-data/main/images/page1.png",
+      "https://raw.githubusercontent.com/YOUR_USERNAME/portfolio-data/main/images/page2.png",
+      "https://raw.githubusercontent.com/YOUR_USERNAME/portfolio-data/main/images/page3.png"
+    ],
+    "github": "#",
+    "skillsUsed": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "Power BI",
+      "Machine Learning",
+      "DAX",
+      "Scikit-learn",
+      "Excel",
+      "Data Cleaning",
+      "KPI Development",
+      "Dashboard Design",
+      "Predictive Modeling",
+      "Operational Insights"
+    ],
+    "description": [
+      "Performed data cleaning and preprocessing using Python (Pandas, NumPy).",
+      "Automated data preparation and maintained logs for traceability.",
+      "Developed KPIs such as delay rate, total orders, and model accuracy using DAX.",
+      "Built a machine learning model to predict delivery delays.",
+      "Created interactive dashboards with charts, heatmaps, and insights."
+    ]
+  },
+  {
+    "id": 4,
+    "name": "HR Dashboard",
+    "technologies": "Power BI, SQL, Data Analytics",
+    "images": [
+      "https://raw.githubusercontent.com/YOUR_USERNAME/portfolio-data/main/images/hr.png"
+    ],
+    "github": "",
+    "skillsUsed": [
+      "Power BI",
+      "SQL",
+      "Analytics",
+      "Data Cleaning",
+      "KPI Development",
+      "Dashboard Design"
+    ],
+    "description": [
+      "Built HR analytics dashboard for employee insights.",
+      "Analyzed attrition trends and workforce performance.",
+      "Provided actionable insights for HR decision-making."
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Sales Dashboard",
+    "technologies": "Power BI, SQL, Data Visualization",
+    "images": [
+      "https://raw.githubusercontent.com/YOUR_USERNAME/portfolio-data/main/images/sales.png"
+    ],
+    "github": "",
+    "skillsUsed": [
+      "Power BI",
+      "SQL",
+      "Visualization",
+      "Data Cleaning",
+      "KPI Development",
+      "Dashboard Design"
+    ],
+    "description": [
+      "Designed sales performance dashboard with key KPIs.",
+      "Analyzed regional and product-wise sales trends.",
+      "Enabled data-driven business decisions through visualization."
+    ]
+  }
+]
