@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Note Making Web App",
     "images": [
-      "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/images/employee-ms.png"
+      "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/images/employee-ms.png"
     ],
     "github": "https://github.com/Abhisheks1patel/Managing_notes.git",
     "skillsUsed": ["React", "Hooks", "Bootstrap", "CSS"],
