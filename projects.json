@@ -4,7 +4,7 @@
     "name": "Note Making Web App",
     "technologies": "React Js, HTML, CSS, Bootstrap",
     "images": [
-      "https://raw.githubusercontent.com/YOUR_USERNAME/portfolio-data/main/images/note1.png"
+      "https://raw.githubusercontent.com/Abhisheks1patel/portfolio-data/main/images/employee-ms.png"
     ],
     "github": "https://github.com/Abhisheks1patel/Managing_notes.git",
     "skillsUsed": ["React", "Hooks", "Bootstrap", "CSS"],
@@ -20,7 +20,7 @@
     "name": "Expense Tracker",
     "technologies": "React Js, Bootstrap, CSS",
     "images": [
-      "https://raw.githubusercontent.com/YOUR_USERNAME/portfolio-data/main/images/expense.png"
+      "https://raw.githubusercontent.com/Abhisheks1patel/portfolio-data/main/images/admin-dashboard.png"
     ],
     "github": "https://github.com/Abhisheks1patel/expense-tracker",
     "skillsUsed": [
@@ -42,9 +42,9 @@
     "name": "Supply Chain Delivery Performance Dashboard",
     "technologies": "Python, Power BI, Excel, Machine Learning",
     "images": [
-      "https://raw.githubusercontent.com/YOUR_USERNAME/portfolio-data/main/images/page1.png",
-      "https://raw.githubusercontent.com/YOUR_USERNAME/portfolio-data/main/images/page2.png",
-      "https://raw.githubusercontent.com/YOUR_USERNAME/portfolio-data/main/images/page3.png"
+      "https://raw.githubusercontent.com/Abhisheks1patel/portfolio-data/main/images/Page 1.png",
+      "https://raw.githubusercontent.com/Abhisheks1patel/portfolio-data/main/images/Page 2.png",
+      "https://raw.githubusercontent.com/Abhisheks1patel/portfolio-data/main/images/Page 3.png"
     ],
     "github": "#",
     "skillsUsed": [
@@ -75,7 +75,7 @@
     "name": "HR Dashboard",
     "technologies": "Power BI, SQL, Data Analytics",
     "images": [
-      "https://raw.githubusercontent.com/YOUR_USERNAME/portfolio-data/main/images/hr.png"
+      "https://raw.githubusercontent.com/Abhisheks1patel/portfolio-data/main/images/power-bi.png"
     ],
     "github": "",
     "skillsUsed": [
@@ -97,7 +97,7 @@
     "name": "Sales Dashboard",
     "technologies": "Power BI, SQL, Data Visualization",
     "images": [
-      "https://raw.githubusercontent.com/YOUR_USERNAME/portfolio-data/main/images/sales.png"
+      "https://raw.githubusercontent.com/Abhisheks1patel/portfolio-data/main/images/Sales analysis.png"
     ],
     "github": "",
     "skillsUsed": [
