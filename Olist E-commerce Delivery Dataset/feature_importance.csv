@@ -1,0 +1,6 @@
+Feature,Importance
+expected_delivery_days,0.31830469934667077
+delivery_time,0.3056511867406837
+processing_time,0.30551549592338767
+seller_delay_rate,0.04501138852375974
+total_order_value,0.02551722946549814
