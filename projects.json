@@ -69,10 +69,9 @@
     "name": "Fake job posting analytics",
     "images": [
       "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/Fake_job_posting/visuals/Page1.jpg", 
-      "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/Fake_job_posting/visuals/Page2.jpg", 
-      "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/Fake_job_posting/visuals/Page3.jpg",
+      "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/Fake_job_posting/visuals/Page2.jpg"
     ],
-    "github": "",
+    "github": "https://github.com/Abhisheks1patel/Data_Analyst_Projects/tree/main/Fake_job_posting",
     "skillsUsed": [
       "Power BI",
       "Advance excel",
