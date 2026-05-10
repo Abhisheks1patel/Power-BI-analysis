@@ -32,7 +32,30 @@
     ]
   },
   {
-    "id": 2,
+    "id":2,
+    "name": "Indian Railway delay analysis",
+    "images":[
+      "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/Indian Railway Analytics/main/Result/Page 1.jpg"
+    ],
+    "github": "",
+    "skillsUsed": [
+      "Power BI",
+      "Advance excel",
+      "Analytics",
+      "Data Cleaning",
+      "KPI Development",
+      "Dashboard Design"
+    ],
+    "description": [
+    "Identified department-wise attrition concentration indicating operational and management challenges.",
+    "Observed higher attrition among mid-tenure employees, highlighting gaps in career growth and retention strategies.",
+    "Analyzed salary distribution and found higher attrition in lower salary bands, suggesting compensation-related issues.",
+    "Detected hiring vs attrition trends showing recruitment spikes followed by increased turnover.",
+    "Evaluated workforce demographics including age and gender to assess diversity and long-term sustainability.",
+    "Enabled interactive analysis using filters and drill-downs for dynamic HR decision-making."    ]
+  },
+  {
+    "id": 3,
     "name": "HR Dashboard Analytics",
     "images": [
       "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/images/power-bi.png"
@@ -55,7 +78,7 @@
     "Enabled interactive analysis using filters and drill-downs for dynamic HR decision-making."    ]
   },
   {
-    "id": 3,
+    "id": 4,
     "name": "Sales Dashboard",
     "images": [
       "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/images/Sales analysis.png"
@@ -76,7 +99,7 @@
     ]
   },
   {
-    "id": 4,
+    "id": 5,
     "name": "Note Making Web App",
     "images": [
       "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/images/employee-ms.png"
@@ -91,7 +114,7 @@
     ]
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "Expense Tracker",
     "images": [
       "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/images/admin-dashboard.png"
