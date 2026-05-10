@@ -3,9 +3,9 @@
     "id": 1,
     "name": "Supply Chain Delivery Performance Dashboard",
     "images": [
-      "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/images/Page 1.jpg",
-      "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/images/Page 2.jpg",
-      "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/images/Page 3.jpg"
+      "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/images/Page%201.jpg",
+      "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/images/Page%202.jpg",
+      "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/images/Page%203.jpg"
     ],
     "github": "#",
     "skillsUsed": [
@@ -32,43 +32,44 @@
     ]
   },
   {
-    "id":2,
+    "id": 2,
     "name": "Indian Railway delay analysis",
-    "images":[ "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/Indian%20Railway%20Analytics/Result/Page%201.jpg", 
-      "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/Indian%20Railway%20Analytics/Result/Page%202.jpg", 
-      "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/Indian%20Railway%20Analytics/Result/Page%203.jpg", 
-      "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/Indian%20Railway%20Analytics/Result/Page%204.jpg", 
-      "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/Indian%20Railway%20Analytics/Result/Page%205.jpg" 
+    "images": [
+      "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/Indian%20Railway%20Analytics/Result/Page%201.jpg",
+      "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/Indian%20Railway%20Analytics/Result/Page%202.jpg",
+      "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/Indian%20Railway%20Analytics/Result/Page%203.jpg",
+      "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/Indian%20Railway%20Analytics/Result/Page%204.jpg",
+      "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/Indian%20Railway%20Analytics/Result/Page%205.jpg"
     ],
     "github": "https://github.com/Abhisheks1patel/Data_Analyst_Projects/tree/main/Indian%20Railway%20Analytics",
     "skillsUsed": [
-    "Python Programming",
-    "Pandas Data Analysis",
-    "Data Cleaning",
-    "Feature Engineering",
-    "Exploratory Data Analysis",
-    "Power BI Dashboard Development",
-    "Data Modeling",
-    "KPI Design",
-    "Business Intelligence",
-    "Root Cause Analysis",
-    "Operational Analytics",
-    "Trend Analysis",
-    "Data Storytelling",
-    "Insight Generation",
-    "Strategic Recommendation Building"
+      "Python Programming",
+      "Pandas Data Analysis",
+      "Data Cleaning",
+      "Feature Engineering",
+      "Exploratory Data Analysis",
+      "Power BI Dashboard Development",
+      "Data Modeling",
+      "KPI Design",
+      "Business Intelligence",
+      "Root Cause Analysis",
+      "Operational Analytics",
+      "Trend Analysis",
+      "Data Storytelling",
+      "Insight Generation",
+      "Strategic Recommendation Building"
     ],
     "description": [
-    "Built an end-to-end Indian Railway Delay Analysis dashboard project using Python, Pandas, and Power BI to analyze train delays, congestion patterns, operational bottlenecks, and seasonal trends across railway stations.",
-    "Performed extensive data cleaning, feature engineering, KPI development, and exploratory analysis to uncover actionable insights related to severe delays, station congestion, weekday vs weekend traffic, and monthly performance trends.",
-    "Designed a multi-page interactive Power BI dashboard with advanced visual storytelling, slicers, operational analytics, and business intelligence insights to support data-driven railway performance optimization."
-   ]
+      "Built an end-to-end Indian Railway Delay Analysis dashboard project using Python, Pandas, and Power BI to analyze train delays, congestion patterns, operational bottlenecks, and seasonal trends across railway stations.",
+      "Performed extensive data cleaning, feature engineering, KPI development, and exploratory analysis to uncover actionable insights related to severe delays, station congestion, weekday vs weekend traffic, and monthly performance trends.",
+      "Designed a multi-page interactive Power BI dashboard with advanced visual storytelling, slicers, operational analytics, and business intelligence insights to support data-driven railway performance optimization."
+    ]
   },
   {
     "id": 3,
     "name": "Fake job posting analytics",
     "images": [
-      "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/Fake_job_posting/visuals/Page1.jpg", 
+      "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/Fake_job_posting/visuals/Page1.jpg",
       "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/Fake_job_posting/visuals/Page2.jpg"
     ],
     "github": "https://github.com/Abhisheks1patel/Data_Analyst_Projects/tree/main/Fake_job_posting",
@@ -78,14 +79,17 @@
       "Analytics",
       "Data Cleaning",
       "KPI Development",
-      "Dashboard Design", "Fraud Pattern Analysis" , "Business Intelligence", "Data Storytelling" 
+      "Dashboard Design",
+      "Fraud Pattern Analysis",
+      "Business Intelligence",
+      "Data Storytelling"
     ],
     "description": [
       "Developed a Power BI dashboard to analyze fake vs legitimate job postings and detect fraudulent hiring patterns.",
-"Performed data cleaning and transformation using Power Query and created KPIs using DAX for meaningful insights.",
-"Visualized trends across industries, job roles, and locations to identify suspicious recruitment behavior.",
-"Strengthened skills in data visualization, fraud pattern analysis, and business storytelling through data."
-   ]
+      "Performed data cleaning and transformation using Power Query and created KPIs using DAX for meaningful insights.",
+      "Visualized trends across industries, job roles, and locations to identify suspicious recruitment behavior.",
+      "Strengthened skills in data visualization, fraud pattern analysis, and business storytelling through data."
+    ]
   },
   {
     "id": 4,
@@ -93,7 +97,7 @@
     "images": [
       "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/images/power-bi.png"
     ],
-    "github": "",
+    "github": "#",
     "skillsUsed": [
       "Power BI",
       "Advance excel",
@@ -103,20 +107,21 @@
       "Dashboard Design"
     ],
     "description": [
-    "Identified department-wise attrition concentration indicating operational and management challenges.",
-    "Observed higher attrition among mid-tenure employees, highlighting gaps in career growth and retention strategies.",
-    "Analyzed salary distribution and found higher attrition in lower salary bands, suggesting compensation-related issues.",
-    "Detected hiring vs attrition trends showing recruitment spikes followed by increased turnover.",
-    "Evaluated workforce demographics including age and gender to assess diversity and long-term sustainability.",
-    "Enabled interactive analysis using filters and drill-downs for dynamic HR decision-making."    ]
+      "Identified department-wise attrition concentration indicating operational and management challenges.",
+      "Observed higher attrition among mid-tenure employees, highlighting gaps in career growth and retention strategies.",
+      "Analyzed salary distribution and found higher attrition in lower salary bands, suggesting compensation-related issues.",
+      "Detected hiring vs attrition trends showing recruitment spikes followed by increased turnover.",
+      "Evaluated workforce demographics including age and gender to assess diversity and long-term sustainability.",
+      "Enabled interactive analysis using filters and drill-downs for dynamic HR decision-making."
+    ]
   },
   {
     "id": 5,
     "name": "Sales Dashboard",
     "images": [
-      "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/images/Sales analysis.png"
+      "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/images/Sales%20analysis.png"
     ],
-    "github": "",
+    "github": "#",
     "skillsUsed": [
       "Power BI",
       "SQL",
