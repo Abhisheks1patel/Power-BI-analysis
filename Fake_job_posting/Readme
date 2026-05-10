@@ -1,0 +1,84 @@
+# 🚨 Fake Job Posting Detection Dashboard
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Data%20Modeling-blue?style=for-the-badge)
+![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
+![Type](https://img.shields.io/badge/Domain-Data%20Analytics-purple?style=for-the-badge)
+
+---
+
+## 📌 Introduction
+This project analyzes **fake vs legitimate job postings** using **Power BI**.  
+It helps detect **fraudulent hiring patterns, remote job risks, company credibility issues, and recruitment trends** through interactive dashboards and visual analytics.
+
+---
+
+## 🛠️ Tools Used
+- 📊 Power BI  
+- 🔄 Power Query  
+- 📐 DAX (Data Analysis Expressions)  
+
+---
+
+## 🧠 Skills Applied
+- 🧹 Data Cleaning  
+- 🔧 Data Transformation  
+- 📊 KPI Design  
+- 📈 Data Visualization  
+- 📊 Dashboard Development  
+- 🚨 Fraud Pattern Analysis  
+- 💼 Business Intelligence  
+- 📖 Data Storytelling  
+
+---
+
+## 📊 Dashboard Overview
+
+### 🧭 Page 1 — Executive Overview
+- 📌 Total job postings  
+- ⚖️ Fake vs Real job distribution  
+- 🏭 Industry-wise fake job analysis  
+- 🏠 Remote vs On-site analysis  
+- 📊 High-level recruitment insights  
+
+---
+
+### 🔍 Page 2 — Fraud & Hiring Insights
+- 🏢 Company credibility analysis  
+- 📝 Job description length analysis  
+- 👔 Employment type distribution  
+- 🎯 Experience level trends  
+- 🎓 Education requirement patterns  
+- 🌍 Geographic hiring distribution  
+
+---
+
+## 💡 Key Learnings
+- 📊 Built interactive Power BI dashboards  
+- 🔄 Data cleaning using Power Query  
+- 📐 Created DAX measures for KPIs  
+- 🚨 Learned fraud detection patterns  
+- 📖 Improved storytelling through data visualization  
+
+---
+
+## 🚀 Future Improvements
+- 🤖 Machine learning-based fraud prediction  
+- 💰 Salary anomaly detection  
+- 🔗 Real-time job data integration  
+- 🧠 NLP-based job description analysis  
+
+---
+
+## 🎯 Conclusion
+This project demonstrates how **Power BI + Data Analytics** can be used to identify suspicious job postings, understand hiring behavior, and generate actionable business insights.
+
+---
+
+## 👨‍💻 Author
+**Abhishek Kumar Patel**  
+Data Analytics | Power BI | Business Intelligence
+
+---
+
+⭐ If you like this project, don't forget to star the repository!
