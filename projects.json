@@ -40,22 +40,29 @@
       "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/Indian%20Railway%20Analytics/Result/Page%204.jpg", 
       "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/Indian%20Railway%20Analytics/Result/Page%205.jpg" 
     ],
-    "github": "",
+    "github": "https://github.com/Abhisheks1patel/Data_Analyst_Projects/tree/main/Indian%20Railway%20Analytics",
     "skillsUsed": [
-      "Power BI",
-      "Advance excel",
-      "Analytics",
-      "Data Cleaning",
-      "KPI Development",
-      "Dashboard Design"
+    "Python Programming",
+    "Pandas Data Analysis",
+    "Data Cleaning",
+    "Feature Engineering",
+    "Exploratory Data Analysis",
+    "Power BI Dashboard Development",
+    "Data Modeling",
+    "KPI Design",
+    "Business Intelligence",
+    "Root Cause Analysis",
+    "Operational Analytics",
+    "Trend Analysis",
+    "Data Storytelling",
+    "Insight Generation",
+    "Strategic Recommendation Building"
     ],
     "description": [
-    "Identified department-wise attrition concentration indicating operational and management challenges.",
-    "Observed higher attrition among mid-tenure employees, highlighting gaps in career growth and retention strategies.",
-    "Analyzed salary distribution and found higher attrition in lower salary bands, suggesting compensation-related issues.",
-    "Detected hiring vs attrition trends showing recruitment spikes followed by increased turnover.",
-    "Evaluated workforce demographics including age and gender to assess diversity and long-term sustainability.",
-    "Enabled interactive analysis using filters and drill-downs for dynamic HR decision-making."    ]
+    "Built an end-to-end Indian Railway Delay Analysis dashboard project using Python, Pandas, and Power BI to analyze train delays, congestion patterns, operational bottlenecks, and seasonal trends across railway stations.",
+    "Performed extensive data cleaning, feature engineering, KPI development, and exploratory analysis to uncover actionable insights related to severe delays, station congestion, weekday vs weekend traffic, and monthly performance trends.",
+    "Designed a multi-page interactive Power BI dashboard with advanced visual storytelling, slicers, operational analytics, and business intelligence insights to support data-driven railway performance optimization."
+   ]
   },
   {
     "id": 3,
