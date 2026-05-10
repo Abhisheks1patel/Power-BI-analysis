@@ -66,6 +66,30 @@
   },
   {
     "id": 3,
+    "name": "Fake job posting analytics",
+    "images": [
+      "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/Fake_job_posting/visuals/Page1.jpg", 
+      "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/Fake_job_posting/visuals/Page2.jpg", 
+      "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/Fake_job_posting/visuals/Page3.jpg",
+    ],
+    "github": "",
+    "skillsUsed": [
+      "Power BI",
+      "Advance excel",
+      "Analytics",
+      "Data Cleaning",
+      "KPI Development",
+      "Dashboard Design", "Fraud Pattern Analysis" , "Business Intelligence", "Data Storytelling" 
+    ],
+    "description": [
+      "Developed a Power BI dashboard to analyze fake vs legitimate job postings and detect fraudulent hiring patterns.",
+"Performed data cleaning and transformation using Power Query and created KPIs using DAX for meaningful insights.",
+"Visualized trends across industries, job roles, and locations to identify suspicious recruitment behavior.",
+"Strengthened skills in data visualization, fraud pattern analysis, and business storytelling through data."
+   ]
+  },
+  {
+    "id": 4,
     "name": "HR Dashboard Analytics",
     "images": [
       "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/images/power-bi.png"
@@ -88,7 +112,7 @@
     "Enabled interactive analysis using filters and drill-downs for dynamic HR decision-making."    ]
   },
   {
-    "id": 4,
+    "id": 5,
     "name": "Sales Dashboard",
     "images": [
       "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/images/Sales analysis.png"
@@ -109,7 +133,7 @@
     ]
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "Note Making Web App",
     "images": [
       "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/images/employee-ms.png"
