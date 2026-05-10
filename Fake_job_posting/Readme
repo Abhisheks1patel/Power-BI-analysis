@@ -48,7 +48,6 @@ It helps detect **fraudulent hiring patterns, remote job risks, company credibil
 - 📝 Job description length analysis  
 - 👔 Employment type distribution  
 - 🎯 Experience level trends  
-- 🎓 Education requirement patterns  
 - 🌍 Geographic hiring distribution  
 
 ---
@@ -74,10 +73,6 @@ It helps detect **fraudulent hiring patterns, remote job risks, company credibil
 This project demonstrates how **Power BI + Data Analytics** can be used to identify suspicious job postings, understand hiring behavior, and generate actionable business insights.
 
 ---
-
-## 👨‍💻 Author
-**Abhishek Kumar Patel**  
-Data Analytics | Power BI | Business Intelligence
 
 ---
 
