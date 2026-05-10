@@ -83,52 +83,9 @@ Exploratory analysis was conducted using Python and Pandas.
 
 ---
 
-# 8. Power BI Dashboard Development
+# 6. Power BI Dashboard Development
 
 An interactive multi-page Power BI dashboard was developed for operational and strategic analysis.
-
----
-
-### Main Visuals
-
-* Delay category distribution
-* KPI cards
-* Overall operational summary
-
-### Insights
-
-* Severe delays contribute significantly to operational inefficiency
-* Delay distribution highlights operational instability patterns
-
-### Main Visuals
-
-* Season-wise delay analysis
-* Weekday vs weekend comparison
-* Temporal delay heatmap
-* Delay severity by month
-
-### Key Findings
-
-* Winter months experience the highest delays
-* Severe delays intensify during seasonal operational disruptions
-* Minor delays remain relatively stable throughout the year
-* Temporal heatmap reveals recurring operational instability patterns
-
----
-
-## Page 5 — Root Cause Insights & Recommendations
-
-### Purpose
-
-Summarize strategic findings and operational recommendations.
-
-### Main Components
-
-* Strategic KPI cards
-* Root cause analysis visual
-* Operational recommendations panel
-* Executive conclusion
-
 ### Key Findings
 
 * Station congestion is a major delay driver
@@ -136,47 +93,7 @@ Summarize strategic findings and operational recommendations.
 * Repeated severe delay patterns indicate route inefficiencies
 * Infrastructure bottlenecks contribute to operational instability
 
----
-
-# 10. Major Insights Derived
-
-## Operational Insights
-
-* Highly congested stations consistently experience elevated severe delay occurrences.
-* Winter months recorded the highest average delays due to fog and operational visibility challenges.
-* Severe train delays frequently exceed 130 minutes during operational disruption periods.
-* Some train routes repeatedly exhibit low punctuality reliability.
-* Delay patterns indicate strong seasonal operational dependencies.
-
----
-
-# 11. Root Cause Analysis
-
-The analysis identified the following major factors contributing to train delays:
-
-| Root Cause                           | Impact Level |
-| ------------------------------------ | ------------ |
-| Station Congestion                   | Very High    |
-| Seasonal Weather Conditions          | High         |
-| Operational Scheduling Issues        | High         |
-| Infrastructure Bottlenecks           | Medium       |
-| Traffic Pressure During Peak Periods | Medium       |
-
----
-
-# 12. Business Recommendations
-
-Based on the analysis, the following recommendations are proposed:
-
-* Improve platform and scheduling management at congested stations
-* Strengthen winter operational preparedness and visibility management
-* Implement predictive monitoring for severe delay-prone trains
-* Optimize infrastructure utilization during seasonal peak periods
-* Introduce real-time operational analytics for congestion forecasting
-
----
-
-# 13. Challenges Faced During Project
+# 7. Challenges Faced During Project
 
 Several practical data analytics challenges were encountered:
 
@@ -191,7 +108,7 @@ These challenges were resolved through data validation, proper aggregation techn
 
 ---
 
-# 14. Project Outcomes
+# 8. Project Outcomes
 
 The project successfully:
 
@@ -203,7 +120,7 @@ The project successfully:
 
 ---
 
-# 15. Skills Demonstrated
+# 9. Skills Demonstrated
 
 This project demonstrates the following skills:
 
@@ -230,7 +147,7 @@ This project demonstrates the following skills:
 
 ---
 
-# 16. Conclusion
+# 10. Conclusion
 
 The India Train Delay Root Cause Analysis project provides a comprehensive analytical view of railway operational inefficiencies using Python and Power BI.
 
@@ -242,7 +159,7 @@ This project highlights the practical application of data analytics and business
 
 ---
 
-# 17. Future Enhancements
+# 11. Future Enhancements
 
 Future improvements that can further enhance this project include:
 
@@ -253,19 +170,6 @@ Future improvements that can further enhance this project include:
 * Passenger impact and crowd analytics
 * AI-based operational risk prediction
 
----
-
-# 18. Project Deliverables
-
-## Final Deliverables
-
-* Cleaned railway delay dataset
-* Python notebooks for preprocessing and analysis
-* Multi-page Power BI dashboard
-* Operational insights and recommendations
-* Project report documentation
-
----
 
 # End of Report
 
