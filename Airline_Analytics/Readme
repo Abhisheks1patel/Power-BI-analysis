@@ -1,0 +1,253 @@
+# ✈️ Airline Operations & Delay Analytics Dashboard
+
+A premium storytelling-based **Power BI dashboard project** built using the **2015 U.S. Flight Delays & Cancellations Dataset**.
+This project focuses on airline operational intelligence, delay analytics, airport congestion monitoring, and carrier performance benchmarking using modern data analytics and visualization techniques.
+
+---
+
+# 📌 Project Overview
+
+The dashboard analyzes millions of airline flight records to uncover:
+
+* Operational efficiency
+* Delay patterns
+* Cancellation trends
+* Airport congestion
+* Airline performance
+* Traffic distribution
+* Root-cause delay analysis
+* Strategic operational insights
+
+The project is designed with a **cinematic aviation command center theme** using a dark modern UI and storytelling-driven analytics.
+
+---
+
+# 🎯 Business Objective
+
+To help airline stakeholders:
+
+* Monitor nationwide flight operations
+* Identify operational bottlenecks
+* Analyze delay and cancellation causes
+* Compare airline performance
+* Improve operational efficiency
+* Support strategic decision-making
+
+---
+
+# 🛠️ Tools & Technologies Used
+
+| Tool / Technology | Purpose                               |
+| ----------------- | ------------------------------------- |
+| Power BI          | Dashboard development & visualization |
+| Python            | Data cleaning & preprocessing         |
+| Pandas            | Data transformation                   |
+| NumPy             | Data handling                         |
+| Google Colab      | Data cleaning & preprocessing         |
+| VS Code           | Project development environment       |   |
+| DAX               | KPI creation & calculations           |
+| Power Query       | Data transformation in Power BI       |
+
+---
+
+# 📂 Dataset Information
+
+## Dataset Used
+
+### 2015 Flight Delays & Cancellations Dataset
+
+Dataset contains:
+
+* 5.8+ million flight records
+* Airline details
+* Airport information
+* Arrival & departure delays
+* Cancellation reasons
+* Flight routes
+* Distance metrics
+* Operational timings
+
+---
+
+# 🧹 Data Cleaning & Preprocessing
+
+Data cleaning was performed using **Python** in **Google Colab** before importing into Power BI.
+
+## Cleaning Tasks Performed
+
+* Removed unnecessary columns
+* Handled missing values
+* Converted date columns
+* Optimized data types
+* Created delay status categories
+* Generated time block segmentation
+* Exported optimized `.parquet` files
+* Validated KPI metrics using Python
+
+---
+
+# 📊 Dashboard Pages
+
+---
+
+# 🏠 Page 1 — Airline Operations Command Center
+
+### Purpose
+
+Executive introduction page with cinematic storytelling visuals.
+
+### Key Features
+
+* Hero operational trend chart
+* Executive KPI overview
+* Flight punctuality overview
+* Operational insight panel
+* Dark aviation command-center theme
+
+### Business Focus
+
+Provides a high-level snapshot of nationwide airline operations and network stability.
+
+---
+
+# 📈 Page 2 — Operational Performance Overview
+
+### Purpose
+
+Analyze traffic activity and operational pressure patterns.
+
+### Key Features
+
+* Monthly operational traffic trends
+* Weekly flight distribution
+* Time-window flight activity
+* Airport traffic analysis
+* Delay movement patterns
+
+### Business Focus
+
+Identifies peak operational periods and traffic congestion behavior.
+
+---
+
+# ⚠️ Page 3 — Delay & Cancellation Intelligence
+
+### Purpose
+
+Root-cause investigation of delays and operational disruptions.
+
+### Key Features
+
+* Delay reason treemap
+* Cancellation funnel chart
+* Delay heatmap
+* Airport congestion scatter plot
+* Delay accumulation waterfall chart
+
+### Business Focus
+
+Analyzes operational instability and identifies major contributors to airline disruptions.
+
+---
+
+# 🛫 Page 4 — Airline Performance Intelligence
+
+### Purpose
+
+Benchmark airline carriers based on operational efficiency.
+
+### Key Features
+
+* Airline efficiency comparison
+* Carrier ranking analysis
+* Cancellation performance analysis
+* Delay distribution comparison
+* Performance scorecards
+
+### Business Focus
+
+Evaluates airline operational reliability and comparative performance.
+
+---
+
+# 🌍 Page 5 — Airport Congestion & Route Analytics
+
+### Purpose
+
+Analyze airport pressure, route activity, and network congestion.
+
+### Key Features
+
+* Busy airport analysis
+* Route performance intelligence
+* Airport congestion monitoring
+* High-delay route detection
+* Traffic density analytics
+
+### Business Focus
+
+Identifies operational hotspots and airport network bottlenecks.
+
+---
+
+# 🎨 Dashboard Design Highlights
+
+* Dark aviation-inspired UI
+* Glassmorphism card styling
+* Executive storytelling layout
+* Cinematic operational theme
+* Consistent visual hierarchy
+* Premium enterprise dashboard aesthetics
+
+---
+
+# 📈 Skills Demonstrated
+
+## Data Analytics
+
+* Business storytelling
+* KPI design
+* Trend analysis
+* Operational intelligence
+
+## Power BI
+
+* Data modeling
+* DAX calculations
+* Interactive dashboards
+* Advanced visual design
+* Conditional formatting
+
+## Python
+
+* Data cleaning
+* Data preprocessing
+* Data validation
+* Performance optimization
+
+## Visualization
+
+* Executive dashboard design
+* Analytical storytelling
+* UI/UX consistency
+* Enterprise reporting
+
+---
+
+# 🚀 Project Outcome
+
+This project demonstrates how aviation operational data can be transformed into a premium business intelligence solution capable of supporting:
+
+* Executive monitoring
+* Operational diagnostics
+* Airline benchmarking
+* Congestion analysis
+* Strategic aviation insights
+
+---
+
+# 👨‍💻 Author
+
+## Abhishek Kumar Patel
+
+Data Analyst | Power BI Developer | Python Enthusiast
