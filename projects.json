@@ -92,7 +92,46 @@
     ]
   },
   {
-    "id": 4,
+  "id": 4,
+  "name": "Airline Operations & Delay Analytics Dashboard",
+  "images": [
+    "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/Airline_Analytics/visuals/Page_1.jpg",
+    "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/Airline_Analytics/visuals/Page_2.jpg",
+    "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/Airline_20OAnalytics/visuals/Page_3.jpg",
+    "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/Airline_20OAnalytics/visuals/Page_4.jpg",
+    "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/Airline_20OAnalytics/visuals/Page_5.jpg"
+  ],
+  "github": "https://github.com/Abhisheks1patel/Data_Analyst_Projects",
+  "skillsUsed": [
+    "Power BI",
+    "Python",
+    "Pandas",
+    "NumPy",
+    "Google Colab",
+    "VS Code",
+    "DAX",
+    "Power Query",
+    "Data Cleaning",
+    "Data Modeling",
+    "KPI Development",
+    "Dashboard Design",
+    "Business Intelligence",
+    "Operational Analytics",
+    "Delay Analysis",
+    "Root Cause Analysis",
+    "Data Storytelling",
+    "Visualization Design",
+    "Performance Optimization"
+  ],
+  "description": [
+    "Built a premium multi-page Airline Operations & Delay Analytics dashboard using Power BI to analyze nationwide flight operations, delays, cancellations, airport congestion, and airline performance across millions of flight records.",
+    "Performed extensive data cleaning, preprocessing, feature engineering, and KPI validation using Python, Pandas, NumPy, Google Colab, and VS Code before importing optimized parquet datasets into Power BI.",
+    "Designed cinematic storytelling dashboards featuring operational intelligence, delay root-cause analysis, airline benchmarking, congestion analytics, and executive insights using advanced DAX calculations and modern visualization techniques.",
+    "Developed interactive analytical pages including operational overview, delay intelligence, airline performance benchmarking, and airport congestion analysis to support data-driven aviation decision-making."
+  ]
+},
+  {
+    "id": 5,
     "name": "HR Dashboard Analytics",
     "images": [
       "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/images/power-bi.png"
@@ -116,7 +155,7 @@
     ]
   },
   {
-    "id": 5,
+    "id": 6,
     "name": "Sales Dashboard",
     "images": [
       "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/images/Sales%20analysis.png"
@@ -137,7 +176,7 @@
     ]
   },
   {
-    "id": 6,
+    "id": 7,
     "name": "Note Making Web App",
     "images": [
       "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/images/employee-ms.png"
@@ -152,7 +191,7 @@
     ]
   },
   {
-    "id": 7,
+    "id": 8,
     "name": "Expense Tracker",
     "images": [
       "https://raw.githubusercontent.com/Abhisheks1patel/Data_Analyst_Projects/main/images/admin-dashboard.png"
